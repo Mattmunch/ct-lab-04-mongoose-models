@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575591711051" clover="3.2.0">
-  <project timestamp="1575591711051" name="All files">
+<coverage generated="1575592335186" clover="3.2.0">
+  <project timestamp="1575592335186" name="All files">
     <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="15" coveredelements="15" complexity="0" loc="15" ncloc="15" packages="1" files="5" classes="5"/>
     <file name="Car.js" path="/Users/matt/alchemy/career-track/ct-lab-04-mongoose-models/lib/models/Car.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
